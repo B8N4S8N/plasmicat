@@ -1,0 +1,125 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  position: relative;
+  min-width: 0;
+}
+.freeBox__cU4OA {
+  max-width: 1024px;
+  display: flex;
+  flex-direction: row;
+  flex-column-gap: 0px;
+  position: relative;
+  align-items: center;
+  width: 100%;
+  justify-content: space-between;
+  min-width: 0;
+  padding: 32px;
+}
+.svg__e9Jl {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+}
+.svg___1W1V1 {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.freeBox__vtP {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+}
+.freeBox__vtP > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox__vtP > :global(.__wab_flex-container) > *,
+.freeBox__vtP > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__vtP > :global(.__wab_flex-container) > picture > img,
+.freeBox__vtP
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+.searchButtonsearchOpen:global(.__wab_instance) {
+  min-width: 200px;
+}
+.svg__mHsZ {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__gRyvA {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.searchInput:global(.__wab_instance) {
+  position: relative;
+  max-width: 200px;
+  display: none;
+}
+.searchInputsearchOpen:global(.__wab_instance) {
+  display: flex;
+}
+.svg__pjVya {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__rqgsY {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg__ftUj1 {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.svg___1IBzN {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.freeBox__sCvc {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.svg__y6KB3 {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
+.text {
+  height: auto;
+  width: auto;
+}
+.svg__u9Wpc {
+  position: relative;
+  object-fit: cover;
+  width: 24px;
+  height: 24px;
+}
